@@ -1,4 +1,12 @@
-## Hi there 👋
+📌 Just a guy who hates leaving the terminal (yes, I google from the terminal)
+- 🎓 Recent graduate (2023 December)
+- 🚀 Currently learning Go.
+- 🔨 Currently building the next muti-billion dollar flutter app [friendzone](https://github.com/Sansquad/friendzone).
+
+
+Current btws:
+- I use vim, btw
+- I use Arch, btw
 
 <!--
 **leesj092/leesj092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
