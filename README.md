@@ -1,8 +1,7 @@
-## 📌 Just a guy who hates leaving the terminal (yes, I google from the terminal)
+### 📌 Just a guy who hates leaving the terminal (yes, I google from the terminal)
 - 🎓 Recent graduate (2023 December)
 - 🚀 Currently learning Go.
 - 🔨 Currently building the next muti-billion dollar flutter app [friendzone](https://github.com/Sansquad/friendzone).
-
 
 Current btws:
 - I use vim, btw
