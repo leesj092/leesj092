@@ -1,5 +1,5 @@
 ### 📌 Just a guy who hates leaving the terminal.
-- 🎓 Recent(?) graduate (2023 December)
+- 🎓 Recent(?) graduate
 - 🚀 Currently learning Go.
 - 🔨 Currently building the next muti-billion dollar flutter app [friendzone](https://github.com/Sansquad/friendzone).
 
