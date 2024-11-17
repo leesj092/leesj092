@@ -1,6 +1,6 @@
 ### 📌 Just a guy who hates leaving the terminal.
 - 🎓 Recent(?) graduate
-- 🚀 Currently learning Go.
+- 🚀 Currently learning how to use HTTP in Go.
 - 🔨 Currently building the next muti-billion dollar flutter app [friendzone](https://github.com/Sansquad/friendzone).
 
 Current btws:
